@@ -1,0 +1,21 @@
+[  
+  {
+    "nickname": "Norno",
+    "server": "irc.freenode.net",
+    "token": "xoxb-4140629220-c4gudBNtHY7umU22lhYo4H4l",
+    "commandCharacters": ["!", "."],
+    "channelMapping": {
+      "#testirc": "#hei"
+    },
+    "ircOptions": {
+      "port": 6667,
+      "debug": true,
+      "floodProtection": false,
+      "floodProtectionDelay": 0,
+      "autoRejoin": true,
+      "userName": "Norno",
+      "password": "baltus94",
+      "secure": true
+    }
+  }
+]
